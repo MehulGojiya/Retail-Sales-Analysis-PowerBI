@@ -20,7 +20,7 @@ This project is an interactive **Retail Sales Dashboard** built using **Power BI
 
 ## 📊 Dashboard
 
-![Retail Dashboard](Dashboard(2).png)
+![Retail Dashboard](Dashboard.png)
 
 ---
 
